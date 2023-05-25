@@ -10,5 +10,4 @@ Dalam menjalankan program ini, dapat dilakukan perintah CRUD untuk class produk,
 
 <img src="https://github.com/zahraftrm/TP3DPBO2023C1/blob/main/desain_database.png" width=50% height=50%>
 
-## DOKUMENTASI PROGRAM
 
