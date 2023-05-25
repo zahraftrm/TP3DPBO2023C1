@@ -19,7 +19,7 @@ Dalam menjalankan program ini, bisa dilakukan sebagai berikut.
 
 ## DESAIN PROGRAM
 
-<img src="https://github.com/zahraftrm/TP2DPBO2023/blob/main/Desain%20Program.png" width=50% height=50%>
+<img src="https://github.com/zahraftrm/TP3DPBO2023C1/blob/main/desain_database.png" width=50% height=50%>
 
 ## DOKUMENTASI PROGRAM
 
